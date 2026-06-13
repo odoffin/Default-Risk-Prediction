@@ -1,7 +1,9 @@
 # 🛒 Default Risk Prediction — Online Purchase Orders Classification
 
-> **Machine Learning Project**  
-> **Professional Development**
+> **Machine Learning Project**
+> 
+> Professional Development
+> 
 > Focus: Binary Classification | Fraud Detection | Risk Assessment
 
 ---
